@@ -1,0 +1,14 @@
+The sounds for the guard are a 4 note sequence that goes in this order:
+
+Bassoon B-2
+Bassoon D-3
+Bassoon C#-3
+Bassoon C-3
+
+I'll tag each sound file is the number in the order, but this text file serves as a reminder.
+Also worth noting is that these sounds are under attribution non-commercial Creative Commons license. If used, we must credit the creator and link sounds in credits and not make money on this project. These sounds are created by user Carlos_Vaquero on freesounds.org and the links to the sounds are these:
+
+ https://www.freesound.org/people/Carlos_Vaquero/sounds/154290/
+https://www.freesound.org/people/Carlos_Vaquero/sounds/154291/
+https://www.freesound.org/people/Carlos_Vaquero/sounds/154292/
+https://www.freesound.org/people/Carlos_Vaquero/sounds/154293/

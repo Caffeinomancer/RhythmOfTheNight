@@ -1,0 +1,5 @@
+The camera sound effect lasts 4 beats, and then switches back and forth between the two. Camera 1 plays first, then camera 2, then camera 1, etc. The sound does not stop, only the sound effect is changed every 4 beats.
+
+This sound effect is created by the user bone666138 on freesounds.org and is licensed under the Creative Commons attribution license. If used, we must credit him and add this link to our credits:
+
+https://www.freesound.org/people/bone666138/sounds/198838/

@@ -1,0 +1,3 @@
+The laser sound plays when the laser is on, and stops when off.
+
+The laser sound is created by me on a royalty free online synth, so no attribution is needed.
